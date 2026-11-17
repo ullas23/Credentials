@@ -19,7 +19,7 @@ A public, verifiable record of my certifications, training and achievements in C
 | Certificate | Issuer | Year | File |
 |---|---|---|---|
 | Introduction to Splunk | Splunk | 2026 | [PDF](2026-Splunk-IntroSplunk.pdf) |
-| Cybersecurity | Honeywell | 2026 | *(to be added)* |
+| Cybersecurity | Honeywell | 2026 | [PDF](2026-Honeywell-Cybersecurity/honeywell-cybersecurity.pdf) |
 | Introduction to Cybersecurity | Cisco Networking Academy | 2026 | *(to be added)* |
 | An Introduction to Cryptography | Coursera / University of Leeds | 2025 | [PDF](2025-Coursera-An-Introduction-to-Cryptography.pdf) |
 | Cynux Secure User (CSU-100) | Cynux Era | 2025 | [PDF](2025-CynuxEra-CSCU-Training.pdf) |
